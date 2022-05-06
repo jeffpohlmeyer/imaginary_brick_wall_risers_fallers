@@ -1,0 +1,1978 @@
+{
+  "Bobby Witt Jr.": {
+    "details": "KC, SS, 21.9 -",
+    "rank": 1
+  },
+  "Julio Rodriguez": {
+    "details": "SEA, OF, 21.3 -",
+    "rank": 2
+  },
+  "Spencer Torkelson": {
+    "details": "DET, 3B/1B, 22.7 -",
+    "rank": 3
+  },
+  "Riley Greene": {
+    "details": "DET, OF, 21.6",
+    "rank": 4
+  },
+  "Brennen Davis": {
+    "details": "CHC, OF, 22.5 -",
+    "rank": 5
+  },
+  "CJ Abrams": {
+    "details": "SD, SS, 21.6 -",
+    "rank": 6
+  },
+  "Grayson Rodriguez": {
+    "details": "BAL, RHP, 22.4",
+    "rank": 7
+  },
+  "Shane Baz": {
+    "details": "TBR, RHP, 22.10",
+    "rank": 8
+  },
+  "Adley Rutschman": {
+    "details": "BAL, C, 24.2 -",
+    "rank": 9
+  },
+  "Oneil Cruz": {
+    "details": "PIT, SS, 23.6 -",
+    "rank": 10
+  },
+  "Zac Veen": {
+    "details": "COL, OF, 20.4 -",
+    "rank": 11
+  },
+  "Anthony Volpe": {
+    "details": "NYY, SS, 20.11 -",
+    "rank": 12
+  },
+  "Noelvi Marte": {
+    "details": "SEA, SS, 20.5",
+    "rank": 13
+  },
+  "Corbin Carroll": {
+    "details": "ARI, OF, 21.7 -",
+    "rank": 14
+  },
+  "Robert Hassell": {
+    "details": "SDP, OF, 20.7",
+    "rank": 15
+  },
+  "Triston Casas": {
+    "details": "BOS, 1B, 22.2 -",
+    "rank": 16
+  },
+  "Hunter Greene": {
+    "details": "CIN, RHP, 22.8",
+    "rank": 17
+  },
+  "Josh Lowe": {
+    "details": "TBR, OF, 24.2",
+    "rank": 18
+  },
+  "Francisco Alvarez": {
+    "details": "NYM, C, 20.4",
+    "rank": 19
+  },
+  "Josh Jung": {
+    "details": "TEX, 3B, 24.2 -",
+    "rank": 20
+  },
+  "George Valera": {
+    "details": "CLE, OF, 21.5 -",
+    "rank": 21
+  },
+  "Nick Gonzales": {
+    "details": "PIT, 2B/SS, 22.10 -",
+    "rank": 22
+  },
+  "Vidal Brujan": {
+    "details": "TBR, 2B/OF, 24.2",
+    "rank": 23
+  },
+  "Nolan Gorman": {
+    "details": "STL, 3B/2B, 21.11",
+    "rank": 24
+  },
+  "Jordan Walker": {
+    "details": "STL, 3B, 19.10",
+    "rank": 25
+  },
+  "George Kirby": {
+    "details": "SEA, RHP, 24.2",
+    "rank": 26
+  },
+  "Marco Luciano": {
+    "details": "SFG, SS, 20.6",
+    "rank": 27
+  },
+  "Luis Matos": {
+    "details": "SFG, OF, 20.2 -",
+    "rank": 28
+  },
+  "Jasson Dominguez": {
+    "details": "NYY, OF, 19.2 -",
+    "rank": 29
+  },
+  "Orelvis Martinez": {
+    "details": "TOR, SS, 20.4 -",
+    "rank": 30
+  },
+  "Tyler Soderstrom": {
+    "details": "OAK, C, 20.4 -",
+    "rank": 31
+  },
+  "Alek Thomas": {
+    "details": "ARI, OF, 21.11 -",
+    "rank": 32
+  },
+  "Oswald Peraza": {
+    "details": "NYY, SS, SS, 21.10 -",
+    "rank": 33
+  },
+  "Marcelo Mayer": {
+    "details": "BOS, SS, 19.4 -",
+    "rank": 34
+  },
+  "Kahlil Watson": {
+    "details": "MIA, SS, 18.11",
+    "rank": 35
+  },
+  "Jack Leiter": {
+    "details": "TEX, RHP, 21.11 -",
+    "rank": 36
+  },
+  "MJ Melendez": {
+    "details": "KCR, C, 23.4 -",
+    "rank": 37
+  },
+  "Nick Pratto": {
+    "details": "KCR, 1B, 23.6 -",
+    "rank": 38
+  },
+  "Austin Martin": {
+    "details": "MIN, OF, 23.0",
+    "rank": 39
+  },
+  "Hedbert Perez": {
+    "details": "MIL, OF, 19.0",
+    "rank": 40
+  },
+  "Royce Lewis": {
+    "details": "MIN, SS, 22.10 -",
+    "rank": 41
+  },
+  "Cristian Hernandez": {
+    "details": "CHC, SS, 18.4",
+    "rank": 42
+  },
+  "Brady House": {
+    "details": "WAS, SS, 18.10",
+    "rank": 43
+  },
+  "Jordan Lawlar": {
+    "details": "ARI, SS, 19.8",
+    "rank": 44
+  },
+  "Aaron Ashby": {
+    "details": "MIL, LHP, 23.9 -",
+    "rank": 45
+  },
+  "Roansy Contreras": {
+    "details": "PIT, RHP, 22.5 -",
+    "rank": 46
+  },
+  "Daniel Espino": {
+    "details": "CLE, RHP, 21.3 -",
+    "rank": 47
+  },
+  "Eury Perez": {
+    "details": "MIA, RHP, 19.0",
+    "rank": 48
+  },
+  "Cade Cavalli": {
+    "details": "WAS, RHP, 23.8",
+    "rank": 49
+  },
+  "Nate Pearson": {
+    "details": "TOR, RHP, 25.7 -",
+    "rank": 50
+  },
+  "Nick Lodolo": {
+    "details": "CIN, LHP, 24.2 -",
+    "rank": 51
+  },
+  "Gabriel Moreno": {
+    "details": "TOR, C, 22.1",
+    "rank": 52
+  },
+  "Henry Davis": {
+    "details": "PIT, C, 22.7 -",
+    "rank": 53
+  },
+  "Seiya Suzuki": {
+    "details": "FRA, OF, 27.7 -",
+    "rank": 54
+  },
+  "Jose Miranda": {
+    "details": "MIN, 3B/2B, 23.8",
+    "rank": 55
+  },
+  "Coby Mayo": {
+    "details": "BAL, 3B, 20.4 -",
+    "rank": 56
+  },
+  "Everson Pereira": {
+    "details": "NYY, OF, 21.0",
+    "rank": 57
+  },
+  "Nick Yorke": {
+    "details": "BOS, 2B, 20.0 -",
+    "rank": 58
+  },
+  "Joe Ryan": {
+    "details": "MIN, RHP, 25.10 -",
+    "rank": 59
+  },
+  "Miguel Vargas": {
+    "details": "LAD, 3B, 22.4 -",
+    "rank": 60
+  },
+  "Reid Detmers": {
+    "details": "LAA, LHP, 22.9",
+    "rank": 61
+  },
+  "Max Meyer": {
+    "details": "MIA, RHP, 22.11",
+    "rank": 62
+  },
+  "Brayan Rocchio": {
+    "details": "CLE, SS, 21.3 -",
+    "rank": 63
+  },
+  "Jose Barrero": {
+    "details": "CIN, SS, 24.0 -",
+    "rank": 64
+  },
+  "Jeremy Pena": {
+    "details": "HOU, SS, 24.5",
+    "rank": 65
+  },
+  "Bobby Miller": {
+    "details": "LAD, RHP, 23.0 -",
+    "rank": 66
+  },
+  "DL Hall": {
+    "details": "BAL, LHP, 23.6 -",
+    "rank": 67
+  },
+  "Jarren Duran": {
+    "details": "BOS, OF, 25.7",
+    "rank": 68
+  },
+  "Michael Harris": {
+    "details": "ATL, OF, 21.1 -",
+    "rank": 69
+  },
+  "Pedro Leon": {
+    "details": "HOU, OF/SS, 23.10",
+    "rank": 70
+  },
+  "Gunnar Henderson": {
+    "details": "BAL, SS, 20.9 -",
+    "rank": 71
+  },
+  "Bryson Stott": {
+    "details": "PHI, SS, 24.6 -",
+    "rank": 72
+  },
+  "Andy Pages": {
+    "details": "LAD, OF, 21.4 -",
+    "rank": 73
+  },
+  "Pete Crow-Armstrong": {
+    "details": "CHC, OF, 20.0 -",
+    "rank": 74
+  },
+  "Keibert Ruiz": {
+    "details": "WAS, C, 23.8",
+    "rank": 75
+  },
+  "Edward Cabrera": {
+    "details": "MIA, RHP, 23.11 -",
+    "rank": 76
+  },
+  "Michael Busch": {
+    "details": "LAD, 2B, 24.4 -",
+    "rank": 77
+  },
+  "Mark Vientos": {
+    "details": "NYM, 3B, 22.4",
+    "rank": 78
+  },
+  "Heliot Ramos": {
+    "details": "SFG, OF, 22.6",
+    "rank": 79
+  },
+  "Kevin Alcantara": {
+    "details": "CHC, OF, 19.9 -",
+    "rank": 80
+  },
+  "Harry Ford": {
+    "details": "SEA, C, 19.2",
+    "rank": 81
+  },
+  "Dustin Harris": {
+    "details": "TEX, 1B, 22.9 -",
+    "rank": 82
+  },
+  "Joey Wiemer": {
+    "details": "MIL, OF, 23.1",
+    "rank": 83
+  },
+  "Cole Winn": {
+    "details": "TEX, RHP, 22.4 -",
+    "rank": 84
+  },
+  "Colton Cowser": {
+    "details": "BAL, OF, 22.0 -",
+    "rank": 85
+  },
+  "MacKenzie Gore": {
+    "details": "SDP, LHP, 23.1",
+    "rank": 86
+  },
+  "Blaze Jordan": {
+    "details": "BOS, 3B, 19.3",
+    "rank": 87
+  },
+  "Vinnie Pasquantino": {
+    "details": "KCR, 1B, 24.6 -",
+    "rank": 88
+  },
+  "Juan Yepez": {
+    "details": "STL, 1B/3B/OF, 24.0",
+    "rank": 89
+  },
+  "Jhonkensy Noel": {
+    "details": "CLE, 1B/3B, 20.9 -",
+    "rank": 90
+  },
+  "Emerson Hancock": {
+    "details": "SEA, RHP, 22.9",
+    "rank": 91
+  },
+  "Jackson Jobe": {
+    "details": "DET, RHP, 19.8",
+    "rank": 92
+  },
+  "Garrett Mitchell": {
+    "details": "MIL, OF, 23.7",
+    "rank": 93
+  },
+  "Aeverson Arteaga": {
+    "details": "SFG, SS, 19.1 -",
+    "rank": 94
+  },
+  "Jordan Groshans": {
+    "details": "TOR, SS, 22.4",
+    "rank": 95
+  },
+  "Brett Baty": {
+    "details": "NYM, 3B, 22.4",
+    "rank": 96
+  },
+  "Reginald Preciado": {
+    "details": "CHC, SS, 18.11 -",
+    "rank": 97
+  },
+  "Benny Montgomery": {
+    "details": "COL, OF, 19.7 -",
+    "rank": 98
+  },
+  "Jay Allen": {
+    "details": "CIN, OF, 19.4 -",
+    "rank": 99
+  },
+  "James Wood": {
+    "details": "SDP, OF, 19.7 -",
+    "rank": 100
+  },
+  "Matt Brash": {
+    "details": "SEA, RHP, 23.10",
+    "rank": 101
+  },
+  "Justin Foscue": {
+    "details": "TEX, 2B/3B, 23.1 -",
+    "rank": 102
+  },
+  "Travis Swaggerty": {
+    "details": "PIT, OF, 24.7 -",
+    "rank": 103
+  },
+  "Alex Ramirez": {
+    "details": "NYM, OF, 19.2",
+    "rank": 104
+  },
+  "Mick Abel": {
+    "details": "PHI, RHP, 20.7",
+    "rank": 105
+  },
+  "Seth Beer": {
+    "details": "ARI, 1B, 25.8 -",
+    "rank": 106
+  },
+  "Owen Caissie": {
+    "details": "CHC, OF, 19.9 -",
+    "rank": 107
+  },
+  "Curtis Mead": {
+    "details": "TBR, 3B, 21.5",
+    "rank": 108
+  },
+  "Jairo Pomares": {
+    "details": "SFG, OF, 21.8 -",
+    "rank": 109
+  },
+  "Ronny Mauricio": {
+    "details": "NYM, SS, 21.0",
+    "rank": 110
+  },
+  "Elly De La Cruz": {
+    "details": "CIN, SS/3B, 20.3 -",
+    "rank": 111
+  },
+  "Victor Acosta": {
+    "details": "SDP, SS, 17.10 -",
+    "rank": 112
+  },
+  "Diego Cartaya": {
+    "details": "LAD, C, 20.7 -",
+    "rank": 113
+  },
+  "Austin Wells": {
+    "details": "NYY, C, 22.9 -",
+    "rank": 114
+  },
+  "Landon Knack": {
+    "details": "LAD, RHP, 24.8 -",
+    "rank": 115
+  },
+  "Hunter Brown": {
+    "details": "HOU, RHP, 23.7",
+    "rank": 116
+  },
+  "Liover Peguero": {
+    "details": "PIT, SS, 21.3 -",
+    "rank": 117
+  },
+  "Luis Campusano": {
+    "details": "SD, C, 23.6",
+    "rank": 118
+  },
+  "Joey Bart": {
+    "details": "SFG, C, 25.3",
+    "rank": 119
+  },
+  "Elehuris Montero": {
+    "details": "COL, 1B/OF, 23.7 -",
+    "rank": 120
+  },
+  "Sal Frelick": {
+    "details": "MIL, OF, 22.0",
+    "rank": 121
+  },
+  "Jeter Downs": {
+    "details": "BOS, 2B, 23.8",
+    "rank": 122
+  },
+  "Jordan Westburg": {
+    "details": "BAL, SS, 23.1 -",
+    "rank": 123
+  },
+  "Matt McLain": {
+    "details": "CIN, SS, 22.8 -",
+    "rank": 124
+  },
+  "Trey Sweeney": {
+    "details": "NYY, SS, 21.11",
+    "rank": 125
+  },
+  "Cristian Santana": {
+    "details": "DET, SS, 18.4",
+    "rank": 126
+  },
+  "Gabriel Gonzalez": {
+    "details": "SEA, OF, 18.2",
+    "rank": 127
+  },
+  "Asa Lacy": {
+    "details": "KCR, LHP, 22.10 -",
+    "rank": 128
+  },
+  "Shea Langeliers": {
+    "details": "ATL, C, 24.5 -",
+    "rank": 129
+  },
+  "Tyler Freeman": {
+    "details": "CLE, SS, 22.10 -",
+    "rank": 130
+  },
+  "Luisangel Acuna": {
+    "details": "TEX, SS/2B, 20.1 -",
+    "rank": 131
+  },
+  "Kristian Robinson": {
+    "details": "ARI, OF, 21.4 -",
+    "rank": 132
+  },
+  "Greg Jones": {
+    "details": "TBR, SS, 24.1",
+    "rank": 133
+  },
+  "Ezequiel Duran": {
+    "details": "TEX, 2B/SS, 22.10 -",
+    "rank": 134
+  },
+  "Matthew Liberatore": {
+    "details": "STL, LHP, 22.5",
+    "rank": 135
+  },
+  "Sam Bachman": {
+    "details": "LAA, RHP, 22.6 -",
+    "rank": 136
+  },
+  "Andrew Painter": {
+    "details": "PHI, RHP, 19.0 -",
+    "rank": 137
+  },
+  "James Triantos": {
+    "details": "CHC, 2B/SS, 19.2 -",
+    "rank": 138
+  },
+  "Jose Salas": {
+    "details": "MIA, SS, 18.11 -",
+    "rank": 139
+  },
+  "Blake Walston": {
+    "details": "ARI, LHP, 20.9 -",
+    "rank": 140
+  },
+  "Eddys Leonard": {
+    "details": "LAD, 2B/SS, 21.4 -",
+    "rank": 141
+  },
+  "Heston Kjerstad": {
+    "details": "BAL, OF, 23.2 -",
+    "rank": 142
+  },
+  "Roderick Arias": {
+    "details": "NYY, SS, 17.7 -",
+    "rank": 143
+  },
+  "Cristian Vaquero": {
+    "details": "WAS, OF, 17.8",
+    "rank": 144
+  },
+  "Adrian Morejon": {
+    "details": "SDP, LHP, 23.1",
+    "rank": 145
+  },
+  "AJ Puk": {
+    "details": "OAK, LHP, 26.11",
+    "rank": 146
+  },
+  "Kyle Muller": {
+    "details": "ATL, LHP, 24.6",
+    "rank": 147
+  },
+  "Graham Ashcraft": {
+    "details": "CIN, RHP, 24.1",
+    "rank": 148
+  },
+  "Nolan Jones": {
+    "details": "CLE, 3B/OF, 23.9 -",
+    "rank": 149
+  },
+  "Bryce Jarvis": {
+    "details": "ARI, RHP, 24.3 -",
+    "rank": 150
+  },
+  "Steven Kwan": {
+    "details": "CLE, OF, 24.7 -",
+    "rank": 151
+  },
+  "Forrest Whitley": {
+    "details": "HOU, RHP, 24.6 -",
+    "rank": 152
+  },
+  "Matt Allan": {
+    "details": "NYM, RHP, 20.11",
+    "rank": 153
+  },
+  "Quinn Priester": {
+    "details": "PIT, RHP, 21.6 -",
+    "rank": 154
+  },
+  "Ryne Nelson": {
+    "details": "ARI, RHP, 24.2 -",
+    "rank": 155
+  },
+  "Drey Jameson": {
+    "details": "ARI, RHP, 24.7 -",
+    "rank": 156
+  },
+  "Brayan Bello": {
+    "details": "BOS, RHP, 22.10 -",
+    "rank": 157
+  },
+  "Taj Bradley": {
+    "details": "TBR, RHP, 21.0",
+    "rank": 158
+  },
+  "Brailyn Marquez": {
+    "details": "CHC, LHP, 23.2 -",
+    "rank": 159
+  },
+  "DJ Herz": {
+    "details": "CHC, LHP, 21.3 -",
+    "rank": 160
+  },
+  "Sixto Sanchez": {
+    "details": "MIA, RHP, 23.0",
+    "rank": 161
+  },
+  "Yoelqui Cespedes": {
+    "details": "CHW, OF, 24.7 -",
+    "rank": 162
+  },
+  "Austin Hendrick": {
+    "details": "CIN, OF, 20.9 -",
+    "rank": 163
+  },
+  "Johan Rojas": {
+    "details": "PHI, OF, 21.8",
+    "rank": 164
+  },
+  "Hendry Mendez": {
+    "details": "MIL, OF, 18.5",
+    "rank": 165
+  },
+  "Jackson Chourio": {
+    "details": "MIL, OF, 18.1",
+    "rank": 166
+  },
+  "Manuel Beltre": {
+    "details": "TOR, SS, 17.10",
+    "rank": 167
+  },
+  "Colson Montgomery": {
+    "details": "CHW, SS, 20.4",
+    "rank": 168
+  },
+  "Gunnar Hoglund": {
+    "details": "TOR, RHP, 22.4",
+    "rank": 169
+  },
+  "Kyle Harrison": {
+    "details": "SFG, LHP, 20.8 -",
+    "rank": 170
+  },
+  "Hunter Bishop": {
+    "details": "SFG, OF, 23.9 -",
+    "rank": 171
+  },
+  "Cole Henry": {
+    "details": "WASH, RHP, 22.9 -",
+    "rank": 172
+  },
+  "Spencer Strider": {
+    "details": "ATL, RHP, 23.5 -",
+    "rank": 173
+  },
+  "Ryan Murphy": {
+    "details": "SFG, RHP, 22.6 -",
+    "rank": 174
+  },
+  "Will Bednar": {
+    "details": "SFG, RHP, 21.10",
+    "rank": 175
+  },
+  "Ezequiel Tovar": {
+    "details": "COL, SS, 20.9 -",
+    "rank": 176
+  },
+  "Peyton Battenfield": {
+    "details": "CLE, RHP, 24.8 -",
+    "rank": 177
+  },
+  "Joshua Baez": {
+    "details": "STL, OF, 18.9",
+    "rank": 178
+  },
+  "Oscar Colas": {
+    "details": "CHW, OF, 23.5",
+    "rank": 179
+  },
+  "Lazaro Montes": {
+    "details": "SEA, OF, 17.6 -",
+    "rank": 180
+  },
+  "Wilman Diaz": {
+    "details": "LAD, SS, 18.5 -",
+    "rank": 181
+  },
+  "Luis Gil": {
+    "details": "NYY, RHP, 23.10 -",
+    "rank": 182
+  },
+  "Logan Allen": {
+    "details": "CLE, LHP, 23.7 -",
+    "rank": 183
+  },
+  "Jake Eder": {
+    "details": "MIA, LHP, 23.4",
+    "rank": 184
+  },
+  "Jordan Wicks": {
+    "details": "CHC, LHP, 22.7 -",
+    "rank": 185
+  },
+  "Gavin Williams": {
+    "details": "CLE, RHP, 22.8 -",
+    "rank": 186
+  },
+  "Zack Gelof": {
+    "details": "OAK, 3B, 22.5",
+    "rank": 187
+  },
+  "Ty Madden": {
+    "details": "DET, RHP, 22.1",
+    "rank": 188
+  },
+  "Michael McGreevy": {
+    "details": "STL, RHP, 21.9",
+    "rank": 189
+  },
+  "Evan Carter": {
+    "details": "TEX, OF, 19.7 -",
+    "rank": 190
+  },
+  "Caleb Kilian": {
+    "details": "CHC, RHP, 24.10 -",
+    "rank": 191
+  },
+  "Tommy Romero": {
+    "details": "TBR, RHP, 24.9 -",
+    "rank": 192
+  },
+  "Owen White": {
+    "details": "TEX, RHP, 22.8 -",
+    "rank": 193
+  },
+  "Michael Toglia": {
+    "details": "COL, 1B, 23.8 -",
+    "rank": 194
+  },
+  "Brandon Williamson": {
+    "details": "SEA, LHP, 24.0 -",
+    "rank": 195
+  },
+  "Vaughn Grissom": {
+    "details": "ATL, SS, 21.3 -",
+    "rank": 196
+  },
+  "Pedro Pineda": {
+    "details": "OAK, OF, 18.7 -",
+    "rank": 197
+  },
+  "Max Muncy": {
+    "details": "OAK, SS, 19.6 -",
+    "rank": 198
+  },
+  "Chase Petty": {
+    "details": "CIN, RHP, 19.0 -",
+    "rank": 199
+  },
+  "Ryan Cusick": {
+    "details": "ATL, RHP, 22.5 -",
+    "rank": 200
+  },
+  "Geraldo Perdomo": {
+    "details": "ARI, SS, 22.5 -",
+    "rank": 201
+  },
+  "Xzavion Curry": {
+    "details": "CLE, RHP, 23.8 -",
+    "rank": 202
+  },
+  "Josh Winder": {
+    "details": "MIN, RHP, 25.5 -",
+    "rank": 203
+  },
+  "Matt Canterino": {
+    "details": "MIN, RHP, 24.3 -",
+    "rank": 204
+  },
+  "Jordan Balazovic": {
+    "details": "MIN, RHP, 23.6",
+    "rank": 205
+  },
+  "Kyle Isbel": {
+    "details": "KCR, OF, 25.1 -",
+    "rank": 206
+  },
+  "Masyn Winn": {
+    "details": "STL, SS/RHP, 20.0",
+    "rank": 207
+  },
+  "Richie Palacios": {
+    "details": "CLE, 2B, 24.11 -",
+    "rank": 208
+  },
+  "Peyton Burdick": {
+    "details": "MIA, OF, 25.1 -",
+    "rank": 209
+  },
+  "Gabriel Arias": {
+    "details": "CLE, SS, 22.1 -",
+    "rank": 210
+  },
+  "Alec Burleson": {
+    "details": "STL, OF, 23.4",
+    "rank": 211
+  },
+  "Nelson Velazquez": {
+    "details": "CHC, OF, 23.3 -",
+    "rank": 212
+  },
+  "JJ Bleday": {
+    "details": "MIA, OF, 24.4 -",
+    "rank": 213
+  },
+  "Bryan Ramos": {
+    "details": "CHW, 3B/2B, 20.1 -",
+    "rank": 214
+  },
+  "Rece Hinds": {
+    "details": "CIN, 3B, 21.7",
+    "rank": 215
+  },
+  "Deyvison De Los Santos": {
+    "details": "ARI, 3B, 18.9 -",
+    "rank": 216
+  },
+  "Cody Morris": {
+    "details": "CLE, RHP, 25.5 -",
+    "rank": 217
+  },
+  "Ian Lewis": {
+    "details": "MIA, 2B, 19.2 -",
+    "rank": 218
+  },
+  "Mason Martin": {
+    "details": "PIT, 1B, 22.10 -",
+    "rank": 219
+  },
+  "Drew Waters": {
+    "details": "ATL, OF, 23.3",
+    "rank": 220
+  },
+  "Randy Vasquez": {
+    "details": "NYY, RHP, 23.5 -",
+    "rank": 221
+  },
+  "Hans Crouse": {
+    "details": "PHI, RHP, 23.6",
+    "rank": 222
+  },
+  "Alex Binelas": {
+    "details": "BOS, 3B, 21.10",
+    "rank": 223
+  },
+  "Connor Norby": {
+    "details": "BAL, 2B, 21.10 -",
+    "rank": 224
+  },
+  "Izaac Pacheco": {
+    "details": "DET, SS, 19.5",
+    "rank": 225
+  },
+  "Carson Williams": {
+    "details": "TBR, SS, 18.9",
+    "rank": 226
+  },
+  "Arol Vera": {
+    "details": "LAA, SS, 19.7 -",
+    "rank": 227
+  },
+  "Jackson Merrill": {
+    "details": "SDP, SS, 18.11 -",
+    "rank": 228
+  },
+  "Jonathan Aranda": {
+    "details": "TBR, 1B/2B/3B, 23.10 -",
+    "rank": 229
+  },
+  "Lonnie White": {
+    "details": "PIT, OF, 19.3 -",
+    "rank": 230
+  },
+  "Anthony Solometo": {
+    "details": "PIT, LHP, 19.4 -",
+    "rank": 231
+  },
+  "Roberto Campos": {
+    "details": "DET, OF, 18.10 -",
+    "rank": 232
+  },
+  "Ivan Herrera": {
+    "details": "STL, C, 21.10",
+    "rank": 233
+  },
+  "Oswaldo Cabrera": {
+    "details": "NYY, 2B/SS/3B, 23.1 -",
+    "rank": 234
+  },
+  "Jake Burger": {
+    "details": "CHW, 3B, 26.0",
+    "rank": 235
+  },
+  "Xavier Edwards": {
+    "details": "TB, 2B/3B, 22.8",
+    "rank": 236
+  },
+  "Jeferson Quero": {
+    "details": "MIL, C, 19.5",
+    "rank": 237
+  },
+  "Jake McCarthy": {
+    "details": "ARI, OF, 24.8 -",
+    "rank": 238
+  },
+  "AJ Vukovich": {
+    "details": "ARI, 3B, 20.7 -",
+    "rank": 239
+  },
+  "Joe Perez": {
+    "details": "HOU, 3B, 22.8 -",
+    "rank": 240
+  },
+  "Khalil Lee": {
+    "details": "NYM, OF, 23.9",
+    "rank": 241
+  },
+  "Jose Rodriguez": {
+    "details": "CHW, SS, 20.11",
+    "rank": 242
+  },
+  "Carlos Jorge": {
+    "details": "CIN, SS/2B, 18.6 -",
+    "rank": 243
+  },
+  "Adael Amador": {
+    "details": "COL, SS, 19.2 -",
+    "rank": 244
+  },
+  "Brice Turang": {
+    "details": "MIL, SS, 22.4",
+    "rank": 245
+  },
+  "Josh H. Smith": {
+    "details": "TEX, SS, 24.8",
+    "rank": 246
+  },
+  "Kevin Smith": {
+    "details": "TOR, SS/3B, 25.9 -",
+    "rank": 247
+  },
+  "Tyler Callihan": {
+    "details": "CIN, 2B, 21.9",
+    "rank": 248
+  },
+  "Aaron Bracho": {
+    "details": "CLE, 2B, 20.11",
+    "rank": 249
+  },
+  "Samad Taylor": {
+    "details": "TOR, 2B, 23.8 -",
+    "rank": 250
+  },
+  "Tyler Black": {
+    "details": "MIL, 2B, 21.8 -",
+    "rank": 251
+  },
+  "Cooper Kinney": {
+    "details": "TBR, 2B/3B, 19.2 -",
+    "rank": 252
+  },
+  "Brendon Davis": {
+    "details": "LAA, 3B/OF, 24.8 -",
+    "rank": 253
+  },
+  "Logan O'Hoppe": {
+    "details": "PHI, C, 22.2 -",
+    "rank": 254
+  },
+  "Simeon Woods Richardson": {
+    "details": "MIN, RHP, 21.6 -",
+    "rank": 255
+  },
+  "Jorbit Vivas": {
+    "details": "LAD, 2B/3B, 21.1 -",
+    "rank": 256
+  },
+  "Matt Vierling": {
+    "details": "PHI, OF/1B, 25.6",
+    "rank": 257
+  },
+  "Carlos Colmenarez": {
+    "details": "TBR, SS, 18.3",
+    "rank": 258
+  },
+  "Brandon Pfaadt": {
+    "details": "ARI, RHP, 23.5 -",
+    "rank": 259
+  },
+  "Colton Welker": {
+    "details": "COL, 3B/1B, 24.6",
+    "rank": 260
+  },
+  "Colin Peluse": {
+    "details": "OAK, RHP, 23.10",
+    "rank": 261
+  },
+  "Yasel Antuna": {
+    "details": "WAS, SS, 22.5 -",
+    "rank": 262
+  },
+  "Nick Loftin": {
+    "details": "KC, SS/2B, 23.6 -",
+    "rank": 263
+  },
+  "Kyren Paris": {
+    "details": "LAA, SS, 20.5",
+    "rank": 264
+  },
+  "Ethan Small": {
+    "details": "MIL, LHP, 25.1 -",
+    "rank": 265
+  },
+  "J.T. Ginn": {
+    "details": "OAK, RHP, 22.10",
+    "rank": 266
+  },
+  "Frank Mozzicato": {
+    "details": "KC, LHP, 18.10 -",
+    "rank": 267
+  },
+  "Robert Puason": {
+    "details": "OAK, SS, 19.6 -",
+    "rank": 268
+  },
+  "Ian Seymour": {
+    "details": "TBR, LHP, 23.4",
+    "rank": 269
+  },
+  "Ryan Pepiot": {
+    "details": "LAD, RHP, 24.7 -",
+    "rank": 270
+  },
+  "Daulton Jefferies": {
+    "details": "OAK, RHP, 26.2",
+    "rank": 271
+  },
+  "Jackson Kowar": {
+    "details": "KC, RHP, 25.6 -",
+    "rank": 272
+  },
+  "Brayan Buelvas": {
+    "details": "OAK, OF, 19.10 -",
+    "rank": 273
+  },
+  "Jordan Viars": {
+    "details": "PHI, 1B/OF, 18.8 -",
+    "rank": 274
+  },
+  "Samuel Zavala": {
+    "details": "SDP, OF, 17.9 -",
+    "rank": 275
+  },
+  "Jonatan Clase": {
+    "details": "SEA, OF, 19.10 -",
+    "rank": 276
+  },
+  "Heriberto Hernandez": {
+    "details": "TBR, OF, 22.4",
+    "rank": 277
+  },
+  "Cristian Pache": {
+    "details": "ATL, OF, 23.5",
+    "rank": 278
+  },
+  "Matt Fraizer": {
+    "details": "PIT, OF, 24.3 -",
+    "rank": 279
+  },
+  "Buddy Kennedy": {
+    "details": "ARI, 3B, 23.6 -",
+    "rank": 280
+  },
+  "Tanner Burns": {
+    "details": "CLE, RHP, 23.3 -",
+    "rank": 281
+  },
+  "undefined": {
+    "details": "BAL, OF, 17.1 -",
+    "rank": 501
+  },
+  "Ricardo Cabrera": {
+    "details": "CIN, SS, 17.5 -",
+    "rank": 283
+  },
+  "Bubba Chandler": {
+    "details": "PIT, SS/RHP, 19.7 -",
+    "rank": 284
+  },
+  "Wes Kath": {
+    "details": "CHW, 3B, 19.8",
+    "rank": 285
+  },
+  "Ethan Wilson": {
+    "details": "PHI, OF, 22.5 -",
+    "rank": 286
+  },
+  "Won-Bin Cho": {
+    "details": "STL, OF, 18.7 -",
+    "rank": 287
+  },
+  "Anthony Gutierrez": {
+    "details": "TEX, OF, 17.4 -",
+    "rank": 288
+  },
+  "Ky Bush": {
+    "details": "LAA, LHP, 22.5 -",
+    "rank": 289
+  },
+  "Norge Vera": {
+    "details": "CHW, RHP, 21.10",
+    "rank": 290
+  },
+  "Ben Kudrna": {
+    "details": "KC, RHP, 19.2 -",
+    "rank": 291
+  },
+  "Matt Mikulski": {
+    "details": "SFG, LHP, 22.10 -",
+    "rank": 292
+  },
+  "Lars Nootbaar": {
+    "details": "STL, OF, 24.7",
+    "rank": 293
+  },
+  "Korey Lee": {
+    "details": "HOU, C, 23.8 -",
+    "rank": 294
+  },
+  "Joe Mack": {
+    "details": "MIA, C, 19.3 -",
+    "rank": 295
+  },
+  "Ryan Kreidler": {
+    "details": "DET, SS, 24.5 -",
+    "rank": 296
+  },
+  "Jhailyn Ortiz": {
+    "details": "PHI, OF, 23.5",
+    "rank": 297
+  },
+  "Joe Gray Jr.": {
+    "details": "MIL, OF, 21.11",
+    "rank": 298
+  },
+  "Kameron Misner": {
+    "details": "TBR, OF, 24.3 -",
+    "rank": 299
+  },
+  "Zach DeLoach": {
+    "details": "SEA, OF, 23.7",
+    "rank": 300
+  },
+  "Bubba Thompson": {
+    "details": "TEX, OF, 23.10 -",
+    "rank": 301
+  },
+  "Allan Cerda": {
+    "details": "CIN, OF, 22.4",
+    "rank": 302
+  },
+  "Kyle Stowers": {
+    "details": "BAL, OF, 24.3 -",
+    "rank": 303
+  },
+  "Lawrence Butler": {
+    "details": "OAK, 1B/OF, 21.9 -",
+    "rank": 304
+  },
+  "Anthony Garcia": {
+    "details": "NYY, 1B/OF, 21.7 -",
+    "rank": 305
+  },
+  "Aaron Sabato": {
+    "details": "MIN, 1B, 22.11 -",
+    "rank": 306
+  },
+  "Kyle Manzardo": {
+    "details": "TBR, 1B, 21.8 -",
+    "rank": 307
+  },
+  "Tony Blanco": {
+    "details": "PIT, OF, 16.11 -",
+    "rank": 308
+  },
+  "Tyler Whitaker": {
+    "details": "HOU, OF, 19.8 -",
+    "rank": 309
+  },
+  "Hudson Haskin": {
+    "details": "BAL, OF, 23.3 -",
+    "rank": 310
+  },
+  "Colin Barber": {
+    "details": "HOU, OF, 21.4 -",
+    "rank": 311
+  },
+  "Yanquiel Fernandez": {
+    "details": "COL, OF, 19.3 -",
+    "rank": 312
+  },
+  "Junior Marin": {
+    "details": "KCR, OF, 18.0 -",
+    "rank": 313
+  },
+  "Romy Gonzalez": {
+    "details": "CHW, SS, 25.7",
+    "rank": 314
+  },
+  "Carlos Rincon": {
+    "details": "NYM, OF, 24.6",
+    "rank": 315
+  },
+  "Sam Huff": {
+    "details": "TEX, C/1B, 24.2",
+    "rank": 316
+  },
+  "Aaron Zavala": {
+    "details": "TEX, OF, 21.9 -",
+    "rank": 317
+  },
+  "Ryan Bliss": {
+    "details": "ARI, SS, 22.4 -",
+    "rank": 318
+  },
+  "Jose Torres": {
+    "details": "CIN, SS, 22.6 -",
+    "rank": 319
+  },
+  "Daylen Lile": {
+    "details": "WAS, OF, 19.4 -",
+    "rank": 320
+  },
+  "Diego Benitez": {
+    "details": "ATL, SS, 17.4 -",
+    "rank": 321
+  },
+  "Yasser Mercedes": {
+    "details": "MIN, OF, 17.5 -",
+    "rank": 322
+  },
+  "Dillon Dingler": {
+    "details": "DET, C, 23.3",
+    "rank": 323
+  },
+  "Alexander Canario": {
+    "details": "CHC, OF, 21.11",
+    "rank": 324
+  },
+  "Ryan Vilade": {
+    "details": "COL, OF, 23.1 -",
+    "rank": 325
+  },
+  "Micker Adolfo": {
+    "details": "CHW, OF, 25.6",
+    "rank": 326
+  },
+  "Gage Workman": {
+    "details": "DET, SS, 22.5 -",
+    "rank": 327
+  },
+  "Luken Baker": {
+    "details": "STL, 1B, 25.1 -",
+    "rank": 328
+  },
+  "Sherten Apostel": {
+    "details": "TEX, 1B/3B, 23.1 -",
+    "rank": 329
+  },
+  "T.J. White": {
+    "details": "WAS, OF, 18.8 -",
+    "rank": 330
+  },
+  "Denzel Clarke": {
+    "details": "OAK, OF, 21.11",
+    "rank": 331
+  },
+  "Otto Lopez": {
+    "details": "TOR, 2B, 23.5",
+    "rank": 332
+  },
+  "Warming Bernabel": {
+    "details": "COL, 3B, 19.10 -",
+    "rank": 333
+  },
+  "Luis Toribio": {
+    "details": "SFG, 1B/3B, 21.6 -",
+    "rank": 334
+  },
+  "Edouard Julien": {
+    "details": "MIN, 2B/3B, 22.11 -",
+    "rank": 335
+  },
+  "Brendan Donovan": {
+    "details": "STL, 3B/2B, 25.3 -",
+    "rank": 336
+  },
+  "Canaan Smith-Njigba": {
+    "details": "PIT, OF, 23.1",
+    "rank": 337
+  },
+  "Jose Ramos": {
+    "details": "LAD, OF, 21.3 -",
+    "rank": 338
+  },
+  "Gilberto Jimenez": {
+    "details": "BOS, OF, 21.9 -",
+    "rank": 339
+  },
+  "Diego Castillo": {
+    "details": "PIT, SS/2B, 24.5 -",
+    "rank": 340
+  },
+  "Maikol Escotto": {
+    "details": "PIT, 2B/SS, 19.10",
+    "rank": 341
+  },
+  "Brenton Doyle": {
+    "details": "COL, OF, 23.10 -",
+    "rank": 342
+  },
+  "Luis Rodriguez": {
+    "details": "LAD, OF, 19.7",
+    "rank": 343
+  },
+  "Petey Halpin": {
+    "details": "CLE, OF, 19.10",
+    "rank": 344
+  },
+  "Jose Siri": {
+    "details": "HOU, OF, 26.9 -",
+    "rank": 345
+  },
+  "Yerlin Confidan": {
+    "details": "CIN, OF, 19.4 -",
+    "rank": 346
+  },
+  "Eddy Beltre": {
+    "details": "SDP, OF, 18.0 -",
+    "rank": 347
+  },
+  "Junior Caminero": {
+    "details": "TBR, 3B, 18.9",
+    "rank": 348
+  },
+  "Joshua Mears": {
+    "details": "SDP, OF, 21.1",
+    "rank": 349
+  },
+  "Jeremiah Jackson": {
+    "details": "LAA, SS, 22.0",
+    "rank": 350
+  },
+  "Daniel Montesino": {
+    "details": "SDP, 1B/OF, 18.2 -",
+    "rank": 351
+  },
+  "Isaiah Greene": {
+    "details": "CLE, OF, 20.7",
+    "rank": 352
+  },
+  "Joel Diaz": {
+    "details": "NYM, RHP, 18.1 -",
+    "rank": 353
+  },
+  "Angel Martinez": {
+    "details": "CLE, 2B/3B/SS, 20.2 -",
+    "rank": 354
+  },
+  "Carson Tucker": {
+    "details": "CLE, SS, 20.2",
+    "rank": 355
+  },
+  "Maikol Hernandez": {
+    "details": "BAL, SS, 18.6",
+    "rank": 356
+  },
+  "Taylor Walls": {
+    "details": "TB, SS, 25.9",
+    "rank": 357
+  },
+  "Slade Cecconi": {
+    "details": "ARI, RHP, 22.9",
+    "rank": 358
+  },
+  "Nick Bitsko": {
+    "details": "TBR, RHP, 19.10",
+    "rank": 359
+  },
+  "Brent Honeywell": {
+    "details": "OAK, RHP, 27.0",
+    "rank": 360
+  },
+  "Alex Santos": {
+    "details": "HOU, RHP, 20.2 -",
+    "rank": 361
+  },
+  "Cole Wilcox": {
+    "details": "TBR, RHP, 22.9 -",
+    "rank": 362
+  },
+  "Jackson Rutledge": {
+    "details": "WAS, RHP, 23.0",
+    "rank": 363
+  },
+  "Luis Medina": {
+    "details": "NYY, RHP, 22.11",
+    "rank": 364
+  },
+  "Andry Lara": {
+    "details": "WAS, RHP, 19.3 -",
+    "rank": 365
+  },
+  "Michael Burrows": {
+    "details": "PIT, RHP, 22.5 -",
+    "rank": 366
+  },
+  "Jonathan Bowlan": {
+    "details": "KCR, RHP, 25.4 -",
+    "rank": 367
+  },
+  "Bryce Bonnin": {
+    "details": "CIN, RHP, 23.6 -",
+    "rank": 368
+  },
+  "Ricky Vanasco": {
+    "details": "TEX, RHP, 23.6 -",
+    "rank": 369
+  },
+  "Freddy Tarnok": {
+    "details": "ATL, RHP, 23.4 -",
+    "rank": 370
+  },
+  "Seth Johnson": {
+    "details": "TB, RHP, 23.6",
+    "rank": 371
+  },
+  "Ethan Hankins": {
+    "details": "CLE, RHP, 22.10",
+    "rank": 372
+  },
+  "Jared Jones": {
+    "details": "PIT, RHP, 20.8",
+    "rank": 373
+  },
+  "Estevan Florial": {
+    "details": "NYY, OF, 24.4",
+    "rank": 374
+  },
+  "Jordan Nwogu": {
+    "details": "CHC, OF, 23.1",
+    "rank": 375
+  },
+  "Erick Pena": {
+    "details": "KC, OF, 19.1",
+    "rank": 376
+  },
+  "Jeff Criswell": {
+    "details": "OAK, RHP, 23.1",
+    "rank": 377
+  },
+  "Chayce McDermott": {
+    "details": "HOU, RHP, 23.7 -",
+    "rank": 378
+  },
+  "Wilkelman Gonzalez": {
+    "details": "BOS, RHP, 20.0 -",
+    "rank": 379
+  },
+  "Roismar Quintana": {
+    "details": "WAS, OF, 19.2 -",
+    "rank": 380
+  },
+  "Christian Franklin": {
+    "details": "CHC, OF, 22.4 -",
+    "rank": 381
+  },
+  "Simon Juan": {
+    "details": "NYM, OF, 16.9 -",
+    "rank": 382
+  },
+  "Wilfred Veras": {
+    "details": "CHW, 1B/3B, 19.5 -",
+    "rank": 383
+  },
+  "Yiddi Cappe": {
+    "details": "MIA, SS, 19.6",
+    "rank": 384
+  },
+  "Ambioris Tavarez": {
+    "details": "ATL, SS, 18.4",
+    "rank": 385
+  },
+  "Ryan Reckley": {
+    "details": "SFG, SS, 17.7 -",
+    "rank": 387
+  },
+  "Yendry Rojas": {
+    "details": "SDP, SS, 17.2 -",
+    "rank": 388
+  },
+  "Michael Massey": {
+    "details": "KCR, 2B, 24.0 -",
+    "rank": 389
+  },
+  "Estiven Machado": {
+    "details": "TOR, 2B, 19.6 -",
+    "rank": 390
+  },
+  "Ji-Hwan Bae": {
+    "details": "PIT, 2B, 22.8",
+    "rank": 391
+  },
+  "Bryan Lavastida": {
+    "details": "CLE, C, 23.4 -",
+    "rank": 392
+  },
+  "Patrick Bailey": {
+    "details": "SFG, C, 22.10",
+    "rank": 393
+  },
+  "Starlin Aguilar": {
+    "details": "SEA, 3B, 18.2 -",
+    "rank": 394
+  },
+  "Milkar Perez": {
+    "details": "SEA, 3B, 20.6 -",
+    "rank": 395
+  },
+  "Felix Valerio": {
+    "details": "MIL, 2B, 21.3 -",
+    "rank": 396
+  },
+  "Miguel Bleis": {
+    "details": "BOS, OF, 18.1 -",
+    "rank": 397
+  },
+  "Jhonny Piron": {
+    "details": "TBR, OF, 18.2",
+    "rank": 398
+  },
+  "Tink Hence": {
+    "details": "STL, RHP, 19.8",
+    "rank": 399
+  },
+  "Endy Rodriguez": {
+    "details": "PIT, C, 21.10 -",
+    "rank": 400
+  },
+  "Jose Butto": {
+    "details": "NYM, RHP, 24.0",
+    "rank": 401
+  },
+  "Ed Howard": {
+    "details": "CHC, SS, 20.8 -",
+    "rank": 402
+  },
+  "Oscar Gonzalez": {
+    "details": "CLE, OF, 24.3 -",
+    "rank": 403
+  },
+  "Korry Howell": {
+    "details": "MIL, OF, 23.7 -",
+    "rank": 404
+  },
+  "Denzer Guzman": {
+    "details": "LAA, SS, 18.2",
+    "rank": 405
+  },
+  "Jordyn Adams": {
+    "details": "LAA, OF, 22.5",
+    "rank": 406
+  },
+  "Connor Scott": {
+    "details": "MIA, OF, 22.6 -",
+    "rank": 407
+  },
+  "Kala'i Rosario": {
+    "details": "MIN, OF, 19.9 -",
+    "rank": 408
+  },
+  "Maddux Bruns": {
+    "details": "LAD, LHP, 19.10 -",
+    "rank": 409
+  },
+  "Calvin Ziegler": {
+    "details": "NYM, RHP, 19.6 -",
+    "rank": 410
+  },
+  "Jesse Franklin": {
+    "details": "ATL, OF, 23.4 -",
+    "rank": 411
+  },
+  "Jose Tena": {
+    "details": "CLE, SS, 21.0 -",
+    "rank": 412
+  },
+  "Jordan Diaz": {
+    "details": "OAK, 3B, 21.8 -",
+    "rank": 413
+  },
+  "Alexander Ramirez": {
+    "details": "LAA, OF, 19.7",
+    "rank": 414
+  },
+  "Ismael Mena": {
+    "details": "CHC, OF, 19.4",
+    "rank": 415
+  },
+  "Robert Gasser": {
+    "details": "SDP, LHP, 22.10 -",
+    "rank": 416
+  },
+  "Doug Nikhazy": {
+    "details": "CLE, LHP, 22.7 -",
+    "rank": 417
+  },
+  "Glenn Otto": {
+    "details": "TEX, RHP, 26.1 -",
+    "rank": 418
+  },
+  "Sammy Long": {
+    "details": "SFG, LHP, 26.9 -",
+    "rank": 419
+  },
+  "Reiver Sanmartin": {
+    "details": "CIN, LHP, 26.0 -",
+    "rank": 420
+  },
+  "Tucker Davidson": {
+    "details": "ATL, LHP, 25.0",
+    "rank": 421
+  },
+  "Bryce Elder": {
+    "details": "ATL, RHP, 22.10 -",
+    "rank": 422
+  },
+  "Jared Shuster": {
+    "details": "ATL, LHP, 23.8 -",
+    "rank": 423
+  },
+  "Adrian Del Castillo": {
+    "details": "ARI, C, 22.6 -",
+    "rank": 424
+  },
+  "Bo Naylor": {
+    "details": "CLE, C, 22.1",
+    "rank": 425
+  },
+  "Dyan Jorge": {
+    "details": "COL, SS, 18.4, 6'2'', 170 -",
+    "rank": 428
+  },
+  "Niko Kavadas": {
+    "details": "BOS, 1B, 23.7 -",
+    "rank": 429
+  },
+  "Jared Kelley": {
+    "details": "CHW, RHP, 20.5",
+    "rank": 430
+  },
+  "Clarke Schmidt": {
+    "details": "NYY, RHP, 26.1",
+    "rank": 431
+  },
+  "Bryce Ball": {
+    "details": "CHC, 1B, 23.9 -",
+    "rank": 432
+  },
+  "Hudson Head": {
+    "details": "PIT, OF, 21.0",
+    "rank": 433
+  },
+  "Jay Groome": {
+    "details": "BOS, LHP, 23.7 -",
+    "rank": 434
+  },
+  "Luis Frias": {
+    "details": "ARI, RHP, 23.10",
+    "rank": 435
+  },
+  "Jhoan Duran": {
+    "details": "MIN, RHP, 24.3",
+    "rank": 436
+  },
+  "Hayden Wesneski": {
+    "details": "NYY, RHP, 24.4 -",
+    "rank": 437
+  },
+  "Louie Varland": {
+    "details": "MIN, RHP, 24.4 -",
+    "rank": 438
+  },
+  "Yohendrick Pinango": {
+    "details": "CHC, OF, 19.11 -",
+    "rank": 439
+  },
+  "Jaden Hill": {
+    "details": "COL, RHP, 22.3 -",
+    "rank": 440
+  },
+  "Braden Shewmake": {
+    "details": "ATL, SS, 24.4",
+    "rank": 441
+  },
+  "Kyle Bradish": {
+    "details": "BAL, RHP, 25.7 -",
+    "rank": 442
+  },
+  "Jake Vogel": {
+    "details": "LAD, OF, 20.6",
+    "rank": 443
+  },
+  "Willy Vasquez": {
+    "details": "TBR, SS, 20.7 -",
+    "rank": 444
+  },
+  "Joey Estes": {
+    "details": "ATL, RHP, 20.4 -",
+    "rank": 445
+  },
+  "Levi Stoudt": {
+    "details": "SEA, RHP, 24.4 -",
+    "rank": 446
+  },
+  "Jean Pinto": {
+    "details": "BAL, RHP, 21.3 -",
+    "rank": 447
+  },
+  "Gavin Stone": {
+    "details": "LAD, RHP, 23.6 -",
+    "rank": 448
+  },
+  "Cody Morissette": {
+    "details": "MIA, 2B/3B, 22.2 -",
+    "rank": 449
+  },
+  "George Feliz": {
+    "details": "SEA, OF, 19.6 -",
+    "rank": 453
+  },
+  "Noah Miller": {
+    "details": "MIN, SS, 19.5",
+    "rank": 454
+  },
+  "Simon Muzziotti": {
+    "details": "PHI, OF, 23.3",
+    "rank": 455
+  },
+  "Euribiel Angeles": {
+    "details": "SDP, SS, 19.11 -",
+    "rank": 456
+  },
+  "Clayton Beeter": {
+    "details": "LAD, RHP, 23.6",
+    "rank": 457
+  },
+  "Miguel Amaya": {
+    "details": "CHC, C, 23.1",
+    "rank": 458
+  },
+  "Wes Clarke": {
+    "details": "MIL, 1B/C, 22.5 -",
+    "rank": 459
+  },
+  "Sean Burke": {
+    "details": "CHW, RHP, 22.3 -",
+    "rank": 460
+  },
+  "Carmen Mlodzinski": {
+    "details": "PIT, RHP, 23.1",
+    "rank": 461
+  },
+  "Alexander Suarez": {
+    "details": "SFG, OF, 20.3 -",
+    "rank": 462
+  },
+  "Bryan Mata": {
+    "details": "BOS, RHP, 22.11",
+    "rank": 463
+  },
+  "Alec Marsh": {
+    "details": "KCR, RHP, 23.11 -",
+    "rank": 464
+  },
+  "Landon Marceaux": {
+    "details": "LAA, RHP, 22.6 -",
+    "rank": 465
+  },
+  "A.J. Alexy": {
+    "details": "TEX, RHP, 23.11 -",
+    "rank": 466
+  },
+  "Leo Jimenez": {
+    "details": "TOR, SS, 20.10 -",
+    "rank": 467
+  },
+  "Ken Waldichuk": {
+    "details": "NYY, LHP, 24.3 -",
+    "rank": 468
+  },
+  "Andrew Abbott": {
+    "details": "CIN, LHP, 22.10 -",
+    "rank": 469
+  },
+  "Ricky Tiedemann": {
+    "details": "TOR, LHP, 19.7 -",
+    "rank": 470
+  },
+  "Nick Allen": {
+    "details": "OAK, SS, 22.6",
+    "rank": 471
+  },
+  "Will Wilson": {
+    "details": "SFG, SS, 23.8",
+    "rank": 472
+  },
+  "Alexander Vargas": {
+    "details": "NYY, SS, 20.5",
+    "rank": 473
+  },
+  "Peyton Wilson": {
+    "details": "KCR, 2B, 22.5 -",
+    "rank": 474
+  },
+  "Corey Rosier": {
+    "details": "SDP, OF, 22.7 -",
+    "rank": 475
+  },
+  "Tyler McDonough": {
+    "details": "BOS, 2B/OF, 23.0 -",
+    "rank": 476
+  },
+  "Reed Trimble": {
+    "details": "BAL, OF, 21.10 -",
+    "rank": 477
+  },
+  "Spencer Schwellenbach": {
+    "details": "ATL, RHP, 21.10 -",
+    "rank": 478
+  },
+  "Konnor Pilkington": {
+    "details": "CLE, LHP, 24.7 -",
+    "rank": 479
+  },
+  "Maximo Acosta": {
+    "details": "TEX, SS, 19.5 -",
+    "rank": 480
+  },
+  "Edwin Arroyo": {
+    "details": "SEA, SS, 18.7 -",
+    "rank": 481
+  },
+  "Nick Swiney": {
+    "details": "SFG, LHP, 23.2",
+    "rank": 482
+  },
+  "Drew Parrish": {
+    "details": "KCR, LHP, 24.4 -",
+    "rank": 483
+  },
+  "Ronaldo Hernandez": {
+    "details": "BOS, C, 24.5 -",
+    "rank": 484
+  },
+  "Hoy Park": {
+    "details": "PIT, 2B/SS, 26.0 -",
+    "rank": 485
+  },
+  "Trevor Hauver": {
+    "details": "TEX, 2B, 23.4 -",
+    "rank": 486
+  },
+  "Austin Shenton": {
+    "details": "TBR, 3B, 24.2 -",
+    "rank": 487
+  },
+  "Rodolfo Castro": {
+    "details": "PIT, 3B/2B, 22.10",
+    "rank": 488
+  },
+  "Fidel Montero": {
+    "details": "NYY, OF, 18.3 -",
+    "rank": 489
+  },
+  "Bayron Lora": {
+    "details": "TEX, OF, 19.6",
+    "rank": 490
+  },
+  "Jonathan Mejia": {
+    "details": "STL, SS, 17.0 -",
+    "rank": 491
+  },
+  "Yordani De Los Santos": {
+    "details": "PIT, SS, 17.1 -",
+    "rank": 492
+  },
+  "Peter Heubeck": {
+    "details": "LAD, RHP, 19.8 -",
+    "rank": 493
+  },
+  "Hunter Goodman": {
+    "details": "COL, C, 22.6 -",
+    "rank": 494
+  },
+  "Alexis Hernandez": {
+    "details": "CHC, SS, 17.3 -",
+    "rank": 495
+  },
+  "Ruben Cardenas": {
+    "details": "TBR, OF, 24.6 -",
+    "rank": 496
+  },
+  "Dominic Hamel": {
+    "details": "NYM, RHP, 23.1 -",
+    "rank": 497
+  },
+  "Dominic Canzone": {
+    "details": "ARI, OF, 24.8 -",
+    "rank": 498
+  },
+  "Miguel Hiraldo": {
+    "details": "TOR, 2B/3B, 21.7",
+    "rank": 499
+  },
+  "Keoni Cavaco": {
+    "details": "MIN, SS, 20.10",
+    "rank": 500
+  }
+}
