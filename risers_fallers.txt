@@ -164,153 +164,153 @@ Jose Salas, Curr: 163, Prev: 139, Change: -24
 Brailyn Marquez, Curr: 164, Prev: 159, Change: -5
 Royber Salinas, Curr: 165, Prev: NR, Change: 
 Yoelqui Cespedes, Curr: 166, Prev: 162, Change: -4
-Nolan Jones, Curr: 167, Prev: 149, Change: -18
-Quinn Priester, Curr: 168, Prev: 154, Change: -14
-Connor Scott, Curr: 169, Prev: 407, Change: +238
-Warming Bernabel, Curr: 170, Prev: 333, Change: +163
-Jackson Merrill, Curr: 171, Prev: 228, Change: +57
-Manuel Beltre, Curr: 172, Prev: 167, Change: -5
-Colson Montgomery, Curr: 173, Prev: 168, Change: -5
-Gunnar Hoglund, Curr: 174, Prev: 169, Change: -5
-Oscar Colas, Curr: 175, Prev: 179, Change: +4
-Hudson Haskin, Curr: 176, Prev: 310, Change: +134
-Max Muncy, Curr: 177, Prev: 198, Change: +21
-Izaac Pacheco, Curr: 178, Prev: 225, Change: +47
-Matt Canterino, Curr: 179, Prev: 204, Change: +25
-Ryan Murphy, Curr: 180, Prev: 174, Change: -6
-Will Bednar, Curr: 181, Prev: 175, Change: -6
-Joshua Baez, Curr: 182, Prev: 178, Change: -4
-Lazaro Montes, Curr: 183, Prev: 180, Change: -3
-Wilman Diaz, Curr: 184, Prev: 181, Change: -3
-Jake Eder, Curr: 185, Prev: 184, Change: -1
-Logan O’Hoppe, Curr: 186, Prev: NR, Change: 
-Christian Encarnacion-Strand, Curr: 187, Prev: NR, Change: 
-Anthony Garcia, Curr: 188, Prev: 305, Change: +117
-Peyton Battenfield, Curr: 189, Prev: 177, Change: -12
-Brandon Walter, Curr: 190, Prev: NR, Change: 
-Jordan Wicks, Curr: 191, Prev: 185, Change: -6
-Brandon Williamson, Curr: 192, Prev: 195, Change: +3
-Ethan Small, Curr: 193, Prev: 265, Change: +72
-Xzavion Curry, Curr: 194, Prev: 202, Change: +8
-Ian Lewis, Curr: 195, Prev: 218, Change: +23
-Carson Williams, Curr: 196, Prev: 226, Change: +30
-Brice Turang, Curr: 197, Prev: 245, Change: +48
-Adam Macko, Curr: 198, Prev: NR, Change: 
-Jacob Amaya, Curr: 199, Prev: NR, Change: 
-Moises Gomez, Curr: 200, Prev: NR, Change: 
-Simeon Woods Richardson, Curr: 201, Prev: 255, Change: +54
-Gordon Graceffo, Curr: 202, Prev: NR, Change: 
-Jose Ramos, Curr: 203, Prev: 338, Change: +135
-Drew Romo, Curr: 204, Prev: NR, Change: 
-Chase Petty, Curr: 205, Prev: 199, Change: -6
-Hendry Mendez, Curr: 206, Prev: 165, Change: -41
-Peyton Burdick, Curr: 207, Prev: 209, Change: +2
-Cody Morris, Curr: 208, Prev: 217, Change: +9
-Jordan Balazovic, Curr: 209, Prev: 205, Change: -4
-Lonnie White, Curr: 210, Prev: 230, Change: +20
-Anthony Solometo, Curr: 211, Prev: 231, Change: +20
-Ivan Herrera, Curr: 212, Prev: 233, Change: +21
-Nelson Velazquez, Curr: 213, Prev: 212, Change: -1
-Greg Jones, Curr: 214, Prev: 133, Change: -81
-Austin Hendrick, Curr: 215, Prev: 163, Change: -52
-Deyvison De Los Santos, Curr: 216, Prev: 216, Change: +0
-Zack Gelof, Curr: 217, Prev: 187, Change: -30
-Reginald Preciado, Curr: 218, Prev: 97, Change: -121
-Johan Rojas, Curr: 219, Prev: 164, Change: -55
-Cesar Prieto, Curr: 220, Prev: NR, Change: 
-JJ Bleday, Curr: 221, Prev: 213, Change: -8
-Mason Martin, Curr: 222, Prev: 219, Change: -3
-Drew Waters, Curr: 223, Prev: 220, Change: -3
-Luis Gil, Curr: 224, Prev: 182, Change: -42
-Hunter Bishop, Curr: 225, Prev: 171, Change: -54
-Michael Toglia, Curr: 226, Prev: 194, Change: -32
-Roberto Campos, Curr: 227, Prev: 232, Change: +5
-AJ Vukovich, Curr: 228, Prev: 239, Change: +11
-Xavier Edwards, Curr: 229, Prev: 236, Change: +7
-Jeferson Quero, Curr: 230, Prev: 237, Change: +7
-Jose Rodriguez, Curr: 231, Prev: 242, Change: +11
-Tyler Callihan, Curr: 232, Prev: 248, Change: +16
-Tyler Black, Curr: 233, Prev: 251, Change: +18
-Cooper Kinney, Curr: 234, Prev: 252, Change: +18
-Colin Peluse, Curr: 235, Prev: 261, Change: +26
-Ryan Cusick, Curr: 236, Prev: 200, Change: -36
-Brendon Davis, Curr: 237, Prev: 253, Change: +16
-Jorbit Vivas, Curr: 238, Prev: 256, Change: +18
-Carlos Jorge, Curr: 239, Prev: 243, Change: +4
-Jared Shuster, Curr: 240, Prev: 423, Change: +183
-J.T. Ginn, Curr: 241, Prev: 266, Change: +25
-Frank Mozzicato, Curr: 242, Prev: 267, Change: +25
-Kyle Manzardo, Curr: 243, Prev: 307, Change: +64
-Seth Johnson, Curr: 244, Prev: 371, Change: +127
-Ken Waldichuk, Curr: 245, Prev: 468, Change: +223
-Michael Massey, Curr: 246, Prev: 389, Change: +143
-Ryne Nelson, Curr: 247, Prev: 155, Change: -92
-Brett Kerry, Curr: 248, Prev: NR, Change: 
-Chase Silseth, Curr: 249, Prev: NR, Change: 
-Connor Phillips, Curr: 250, Prev: NR, Change: 
-Alexander Canario, Curr: 251, Prev: 324, Change: +73
-Jordan Viars, Curr: 252, Prev: 274, Change: +22
-Samuel Zavala, Curr: 253, Prev: 275, Change: +22
-Pedro Pineda, Curr: 254, Prev: 197, Change: -57
-Carlos Colmenarez, Curr: 255, Prev: 258, Change: +3
-Tanner Burns, Curr: 256, Prev: 281, Change: +25
-Randy Vasquez, Curr: 257, Prev: 221, Change: -36
-Andrew Abbott, Curr: 258, Prev: 469, Change: +211
-Josh H. Smith, Curr: 259, Prev: 246, Change: -13
-Bryce Bonnin, Curr: 260, Prev: 368, Change: +108
-Bryce Jarvis, Curr: 261, Prev: 150, Change: -111
-Wilkelman Gonzalez, Curr: 262, Prev: 379, Change: +117
-Colton Welker, Curr: 263, Prev: 260, Change: -3
-undefined, Curr: 264, Prev: 501, Change: +237
-Ricardo Cabrera, Curr: 265, Prev: 283, Change: +18
-Bubba Chandler, Curr: 266, Prev: 284, Change: +18
-Won-Bin Cho, Curr: 267, Prev: 287, Change: +20
-Anthony Gutierrez, Curr: 268, Prev: 288, Change: +20
-Ky Bush, Curr: 269, Prev: 289, Change: +20
-Jared Jones, Curr: 270, Prev: 373, Change: +103
-Maddux Bruns, Curr: 271, Prev: 409, Change: +138
-Norge Vera, Curr: 272, Prev: 290, Change: +18
-Ben Kudrna, Curr: 273, Prev: 291, Change: +18
-Cal Mitchell, Curr: 274, Prev: NR, Change: 
-Mickey Moniak, Curr: 275, Prev: NR, Change: 
-Bubba Thompson, Curr: 276, Prev: 301, Change: +25
-Allan Cerda, Curr: 277, Prev: 302, Change: +25
-Gabriel Arias, Curr: 278, Prev: 210, Change: -68
-Rece Hinds, Curr: 279, Prev: 215, Change: -64
-Arol Vera, Curr: 280, Prev: 227, Change: -53
-Oswaldo Cabrera, Curr: 281, Prev: 234, Change: -47
-Jake McCarthy, Curr: 282, Prev: 238, Change: -44
-Joe Perez, Curr: 283, Prev: 240, Change: -43
-Khalil Lee, Curr: 284, Prev: 241, Change: -43
-Angel Martinez, Curr: 285, Prev: 354, Change: +69
-Nick Loftin, Curr: 286, Prev: 263, Change: -23
-Yasel Antuna, Curr: 287, Prev: 262, Change: -25
-Ian Seymour, Curr: 288, Prev: 269, Change: -19
-Brayan Buelvas, Curr: 289, Prev: 273, Change: -16
-Heriberto Hernandez, Curr: 290, Prev: 277, Change: -13
-Buddy Kennedy, Curr: 291, Prev: 280, Change: -11
-Korey Lee, Curr: 292, Prev: 294, Change: +2
-Colin Barber, Curr: 293, Prev: 311, Change: +18
-Matt Fraizer, Curr: 294, Prev: 279, Change: -15
-Wes Kath, Curr: 295, Prev: 285, Change: -10
-Ethan Wilson, Curr: 296, Prev: 286, Change: -10
-Matt Mikulski, Curr: 297, Prev: 292, Change: -5
-Joe Mack, Curr: 298, Prev: 295, Change: -3
-Junior Marin, Curr: 299, Prev: 313, Change: +14
-Aaron Zavala, Curr: 300, Prev: 317, Change: +17
-Daylen Lile, Curr: 301, Prev: 320, Change: +19
-Diego Benitez, Curr: 302, Prev: 321, Change: +19
-Yasser Mercedes, Curr: 303, Prev: 322, Change: +19
-Ryan Kreidler, Curr: 304, Prev: 296, Change: -8
-Aaron Sabato, Curr: 305, Prev: 306, Change: +1
-Lawrence Butler, Curr: 306, Prev: 304, Change: -2
-Tony Blanco, Curr: 307, Prev: 308, Change: +1
-Yanquiel Fernandez, Curr: 308, Prev: 312, Change: +4
-Dillon Dingler, Curr: 309, Prev: 323, Change: +14
-T.J. White, Curr: 310, Prev: 330, Change: +20
-Luis Rodriguez, Curr: 311, Prev: 343, Change: +32
-Yerlin Confidan, Curr: 312, Prev: 346, Change: +34
-Eddy Beltre, Curr: 313, Prev: 347, Change: +34
-Junior Caminero, Curr: 314, Prev: 348, Change: +34
-Daniel Montesino, Curr: 315, Prev: 351, Change: +36
+Edwin Arroyo, Curr: 167, Prev: 481, Change: +314
+Nolan Jones, Curr: 168, Prev: 149, Change: -19
+Quinn Priester, Curr: 169, Prev: 154, Change: -15
+Connor Scott, Curr: 170, Prev: 407, Change: +237
+Warming Bernabel, Curr: 171, Prev: 333, Change: +162
+Jackson Merrill, Curr: 172, Prev: 228, Change: +56
+Manuel Beltre, Curr: 173, Prev: 167, Change: -6
+Colson Montgomery, Curr: 174, Prev: 168, Change: -6
+Gunnar Hoglund, Curr: 175, Prev: 169, Change: -6
+Oscar Colas, Curr: 176, Prev: 179, Change: +3
+Hudson Haskin, Curr: 177, Prev: 310, Change: +133
+Max Muncy, Curr: 178, Prev: 198, Change: +20
+Izaac Pacheco, Curr: 179, Prev: 225, Change: +46
+Matt Canterino, Curr: 180, Prev: 204, Change: +24
+Ryan Murphy, Curr: 181, Prev: 174, Change: -7
+Will Bednar, Curr: 182, Prev: 175, Change: -7
+Joshua Baez, Curr: 183, Prev: 178, Change: -5
+Lazaro Montes, Curr: 184, Prev: 180, Change: -4
+Wilman Diaz, Curr: 185, Prev: 181, Change: -4
+Jake Eder, Curr: 186, Prev: 184, Change: -2
+Logan O’Hoppe, Curr: 187, Prev: NR, Change: 
+Christian Encarnacion-Strand, Curr: 188, Prev: NR, Change: 
+Anthony Garcia, Curr: 189, Prev: 305, Change: +116
+Peyton Battenfield, Curr: 190, Prev: 177, Change: -13
+Brandon Walter, Curr: 191, Prev: NR, Change: 
+Jordan Wicks, Curr: 192, Prev: 185, Change: -7
+Brandon Williamson, Curr: 193, Prev: 195, Change: +2
+Ethan Small, Curr: 194, Prev: 265, Change: +71
+Xzavion Curry, Curr: 195, Prev: 202, Change: +7
+Ian Lewis, Curr: 196, Prev: 218, Change: +22
+Carson Williams, Curr: 197, Prev: 226, Change: +29
+Brice Turang, Curr: 198, Prev: 245, Change: +47
+Adam Macko, Curr: 199, Prev: NR, Change: 
+Jacob Amaya, Curr: 200, Prev: NR, Change: 
+Moises Gomez, Curr: 201, Prev: NR, Change: 
+Simeon Woods Richardson, Curr: 202, Prev: 255, Change: +53
+Gordon Graceffo, Curr: 203, Prev: NR, Change: 
+Jose Ramos, Curr: 204, Prev: 338, Change: +134
+Drew Romo, Curr: 205, Prev: NR, Change: 
+Chase Petty, Curr: 206, Prev: 199, Change: -7
+Hendry Mendez, Curr: 207, Prev: 165, Change: -42
+Peyton Burdick, Curr: 208, Prev: 209, Change: +1
+Cody Morris, Curr: 209, Prev: 217, Change: +8
+Jordan Balazovic, Curr: 210, Prev: 205, Change: -5
+Lonnie White, Curr: 211, Prev: 230, Change: +19
+Anthony Solometo, Curr: 212, Prev: 231, Change: +19
+Ivan Herrera, Curr: 213, Prev: 233, Change: +20
+Nelson Velazquez, Curr: 214, Prev: 212, Change: -2
+Greg Jones, Curr: 215, Prev: 133, Change: -82
+Austin Hendrick, Curr: 216, Prev: 163, Change: -53
+Deyvison De Los Santos, Curr: 217, Prev: 216, Change: -1
+Zack Gelof, Curr: 218, Prev: 187, Change: -31
+Reginald Preciado, Curr: 219, Prev: 97, Change: -122
+Johan Rojas, Curr: 220, Prev: 164, Change: -56
+Cesar Prieto, Curr: 221, Prev: NR, Change: 
+JJ Bleday, Curr: 222, Prev: 213, Change: -9
+Mason Martin, Curr: 223, Prev: 219, Change: -4
+Drew Waters, Curr: 224, Prev: 220, Change: -4
+Luis Gil, Curr: 225, Prev: 182, Change: -43
+Hunter Bishop, Curr: 226, Prev: 171, Change: -55
+Michael Toglia, Curr: 227, Prev: 194, Change: -33
+Roberto Campos, Curr: 228, Prev: 232, Change: +4
+AJ Vukovich, Curr: 229, Prev: 239, Change: +10
+Xavier Edwards, Curr: 230, Prev: 236, Change: +6
+Jeferson Quero, Curr: 231, Prev: 237, Change: +6
+Jose Rodriguez, Curr: 232, Prev: 242, Change: +10
+Tyler Callihan, Curr: 233, Prev: 248, Change: +15
+Tyler Black, Curr: 234, Prev: 251, Change: +17
+Cooper Kinney, Curr: 235, Prev: 252, Change: +17
+Colin Peluse, Curr: 236, Prev: 261, Change: +25
+Ryan Cusick, Curr: 237, Prev: 200, Change: -37
+Brendon Davis, Curr: 238, Prev: 253, Change: +15
+Jorbit Vivas, Curr: 239, Prev: 256, Change: +17
+Carlos Jorge, Curr: 240, Prev: 243, Change: +3
+Jared Shuster, Curr: 241, Prev: 423, Change: +182
+J.T. Ginn, Curr: 242, Prev: 266, Change: +24
+Frank Mozzicato, Curr: 243, Prev: 267, Change: +24
+Kyle Manzardo, Curr: 244, Prev: 307, Change: +63
+Seth Johnson, Curr: 245, Prev: 371, Change: +126
+Ken Waldichuk, Curr: 246, Prev: 468, Change: +222
+Michael Massey, Curr: 247, Prev: 389, Change: +142
+Ryne Nelson, Curr: 248, Prev: 155, Change: -93
+Brett Kerry, Curr: 249, Prev: NR, Change: 
+Chase Silseth, Curr: 250, Prev: NR, Change: 
+Connor Phillips, Curr: 251, Prev: NR, Change: 
+Alexander Canario, Curr: 252, Prev: 324, Change: +72
+Jordan Viars, Curr: 253, Prev: 274, Change: +21
+Samuel Zavala, Curr: 254, Prev: 275, Change: +21
+Pedro Pineda, Curr: 255, Prev: 197, Change: -58
+Carlos Colmenarez, Curr: 256, Prev: 258, Change: +2
+Tanner Burns, Curr: 257, Prev: 281, Change: +24
+Randy Vasquez, Curr: 258, Prev: 221, Change: -37
+Andrew Abbott, Curr: 259, Prev: 469, Change: +210
+Josh H. Smith, Curr: 260, Prev: 246, Change: -14
+Bryce Bonnin, Curr: 261, Prev: 368, Change: +107
+Bryce Jarvis, Curr: 262, Prev: 150, Change: -112
+Wilkelman Gonzalez, Curr: 263, Prev: 379, Change: +116
+Colton Welker, Curr: 264, Prev: 260, Change: -4
+William Bergolla Jr., Curr: 265, Prev: 282, Change: +17
+Ricardo Cabrera, Curr: 266, Prev: 283, Change: +17
+Bubba Chandler, Curr: 267, Prev: 284, Change: +17
+Won-Bin Cho, Curr: 268, Prev: 287, Change: +19
+Anthony Gutierrez, Curr: 269, Prev: 288, Change: +19
+Ky Bush, Curr: 270, Prev: 289, Change: +19
+Jared Jones, Curr: 271, Prev: 373, Change: +102
+Maddux Bruns, Curr: 272, Prev: 409, Change: +137
+Norge Vera, Curr: 273, Prev: 290, Change: +17
+Ben Kudrna, Curr: 274, Prev: 291, Change: +17
+Cal Mitchell, Curr: 275, Prev: NR, Change: 
+Mickey Moniak, Curr: 276, Prev: NR, Change: 
+Bubba Thompson, Curr: 277, Prev: 301, Change: +24
+Allan Cerda, Curr: 278, Prev: 302, Change: +24
+Gabriel Arias, Curr: 279, Prev: 210, Change: -69
+Rece Hinds, Curr: 280, Prev: 215, Change: -65
+Arol Vera, Curr: 281, Prev: 227, Change: -54
+Oswaldo Cabrera, Curr: 282, Prev: 234, Change: -48
+Jake McCarthy, Curr: 283, Prev: 238, Change: -45
+Joe Perez, Curr: 284, Prev: 240, Change: -44
+Khalil Lee, Curr: 285, Prev: 241, Change: -44
+Angel Martinez, Curr: 286, Prev: 354, Change: +68
+Nick Loftin, Curr: 287, Prev: 263, Change: -24
+Yasel Antuna, Curr: 288, Prev: 262, Change: -26
+Ian Seymour, Curr: 289, Prev: 269, Change: -20
+Brayan Buelvas, Curr: 290, Prev: 273, Change: -17
+Heriberto Hernandez, Curr: 291, Prev: 277, Change: -14
+Buddy Kennedy, Curr: 292, Prev: 280, Change: -12
+Korey Lee, Curr: 293, Prev: 294, Change: +1
+Colin Barber, Curr: 294, Prev: 311, Change: +17
+Matt Fraizer, Curr: 295, Prev: 279, Change: -16
+Wes Kath, Curr: 296, Prev: 285, Change: -11
+Ethan Wilson, Curr: 297, Prev: 286, Change: -11
+Matt Mikulski, Curr: 298, Prev: 292, Change: -6
+Joe Mack, Curr: 299, Prev: 295, Change: -4
+Junior Marin, Curr: 300, Prev: 313, Change: +13
+Aaron Zavala, Curr: 301, Prev: 317, Change: +16
+Daylen Lile, Curr: 302, Prev: 320, Change: +18
+Diego Benitez, Curr: 303, Prev: 321, Change: +18
+Yasser Mercedes, Curr: 304, Prev: 322, Change: +18
+Ryan Kreidler, Curr: 305, Prev: 296, Change: -9
+Aaron Sabato, Curr: 306, Prev: 306, Change: +0
+Lawrence Butler, Curr: 307, Prev: 304, Change: -3
+Tony Blanco, Curr: 308, Prev: 308, Change: +0
+Yanquiel Fernandez, Curr: 309, Prev: 312, Change: +3
+Dillon Dingler, Curr: 310, Prev: 323, Change: +13
+T.J. White, Curr: 311, Prev: 330, Change: +19
+Luis Rodriguez, Curr: 312, Prev: 343, Change: +31
+Yerlin Confidan, Curr: 313, Prev: 346, Change: +33
+Eddy Beltre, Curr: 314, Prev: 347, Change: +33
+Junior Caminero, Curr: 315, Prev: 348, Change: +33
 Joel Diaz, Curr: 316, Prev: 353, Change: +37
